@@ -5,8 +5,8 @@ This project demonstrates modern UI design principles with a simple and professi
 
 ---
 
-## 🔥 Live Demo
-👉 https://your-live-demo-link
+## 🔥 Screenshort
+👉 ![image url](https://github.com/Divanshugaur001/profile-card/blob/ec93c64ea757daf4c155c4b72215df7749c16dd3/Screenshot%20(9).png)
 
 ---
 
